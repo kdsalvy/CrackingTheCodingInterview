@@ -1,4 +1,4 @@
-Solution of Questions given in Cracking Coding Interviews by Gayle Laakmaan
+Solution of Questions given in Cracking Coding Interviews by Gayle Laakmann
 
 Basics Must have knowledge in data structure, algorithms and concepts
 
